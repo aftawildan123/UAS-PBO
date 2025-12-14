@@ -1,0 +1,33 @@
+{
+    "1111": {
+        "pin": "1234",
+        "balance": 452222,
+        "history": [
+            "Setor Rp 100000",
+            "Setor Rp 100000",
+            "Tarik Rp 100,000",
+            "Transfer Rp 100,000 ke 141205",
+            "Setor Rp 100,000",
+            "Setor Rp 12222",
+            "Terima transfer Rp 40,000 dari 12345"
+        ]
+    },
+    "141205": {
+        "pin": "505050",
+        "balance": 200000,
+        "history": [
+            "Terima transfer Rp 100000 dari 1111",
+            "Terima transfer Rp 100,000 dari 1111"
+        ]
+    },
+    "12345": {
+        "pin": "12345",
+        "balance": 6000,
+        "history": [
+            "Setor Rp 100,000",
+            "Tarik Rp 50,000 (Admin Rp 2,000)",
+            "Tarik Rp 40,000 (Admin Rp 2,000)",
+            "Transfer Rp 40,000 ke 1111"
+        ]
+    }
+}
